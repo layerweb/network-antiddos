@@ -1,4 +1,4 @@
-## 🛡️ *yuki-antiDDoS* - simple protection against DDoS-attacks.
+## 🛡️ *antiDDoS* - simple protection against DDoS-attacks.
 
 ### 📥 Installation
 ```
